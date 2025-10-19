@@ -1,0 +1,43 @@
+.containTop{
+    width: 100%;
+    height: 814px;
+    display: flex;
+    background-color: #141414;
+    align-items: center;
+    box-sizing: border-box;
+    /* margin-top: 57px; */
+}
+
+.miniContainLeft{
+    width: 920px;
+    height: 814px;
+}
+
+.artLeft{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 758px;
+    height: 222px;
+    padding: 144px 0 448px 162px;
+}
+
+.artLeft h1{
+    font-size: 3.75rem;
+    color: white;
+    margin-bottom: 24px;
+}
+
+.artLeft p{
+    font-size: 1.125rem;
+    color: white;
+    margin: 0;
+}
+
+.miniContainRight{
+    width: 920px;
+    height: 814px;
+    display: flex;
+    box-sizing: border-box;
+    margin-left: auto;
+}
